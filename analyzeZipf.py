@@ -348,3 +348,7 @@ if __name__ == '__main__':
     plt.legend()
     # save as png file
     plt.savefig('Zipf\'s Law.png')
+
+
+    ##tnwjd
+    ##수정
